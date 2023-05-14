@@ -1,4 +1,4 @@
-const { MongoClient, ServerApiVersion } = require('mongodb');
+ const { MongoClient, ServerApiVersion } = require('mongodb');
 
 class Database {
     constructor(){
